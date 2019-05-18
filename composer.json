@@ -1,0 +1,16 @@
+{
+    "name": "yonedahiroshi/domain_rule",
+    "description": "laravel  DomainException catch",
+    "type": "library",
+    "require": {
+        "laravel/laravel": ">=5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "米田宏",
+            "email": "yonedahiroshi1229@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
